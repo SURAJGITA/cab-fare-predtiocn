@@ -993,7 +993,7 @@ MAPE(test.iloc[:,0],prediction_dt)
 regressor = RandomForestRegressor(n_estimators = 100, random_state = 0) 
 
 
-# In[111]:
+# In[111]:fit the regressor with x and y data 
 
 
 # fit the regressor with x and y data 
